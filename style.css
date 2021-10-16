@@ -27,14 +27,7 @@
   justify-content: space-between;
   margin: 1em;
   align-items: flex-start;
-}
-.row2{
-  font-family: cursive;
-  font-size: 20px;
-  display: flex;
-  justify-content: space-around;
-  margin: 1em;
-  align-items: flex-start;
+  flex-wrap: wrap
 }
 .footter{
   font-size: 20px;
