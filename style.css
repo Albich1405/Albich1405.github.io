@@ -27,7 +27,7 @@
   justify-content: space-between;
   margin: 1em;
   align-items: flex-start;
-  flex-flow: row wrap;
+  flex-wrap: wrap;
 }
 .footter{
   font-size: 20px;
